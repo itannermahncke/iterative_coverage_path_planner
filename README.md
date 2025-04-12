@@ -4,6 +4,6 @@ Climate Robotics and Expeditionary Science Technology (CREST) Lab
 
 ## What is this project?
 
-## Who is this for?
+## What progress has been made so far?
 
 ## What's next?
